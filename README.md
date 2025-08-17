@@ -12,7 +12,9 @@ Feature	Description
 🎯 Easy Command-Line Interface	Simple CLI arguments with help flags
 
 💻 Command Usage
-   python subdomain.py -d example.com -w subdomains.txt
+  
+  
+ python subdomain.py -d example.com -w subdomains.txt
 
 Or with custom threads:
 
