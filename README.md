@@ -1,4 +1,4 @@
-You can include this in your README.md, share it on GitHub, or even use it in documentation or video descriptions.
+
 
 🔍 Subdomain Scanner Tool – Features, Commands & Descriptions
 ✅ Features
