@@ -10,13 +10,13 @@ Feature	Description
 📝 Output Summary	Shows a list of all live subdomains at the end
 🧩 Custom Wordlist Support	You can use your own custom subdomain wordlist
 🎯 Easy Command-Line Interface	Simple CLI arguments with help flags
-💻 Command Usage
-python subdomain_scanner.py -d example.com -w subdomains.txt
 
+💻 Command Usage
+   python subdomain.py -d example.com -w subdomains.txt
 
 Or with custom threads:
 
-python subdomain_scanner.py -d example.com -w subdomains.txt -t 50
+python subdomain.py -d example.com -w subdomains.txt -t 50
 
 📄 Command-Line Arguments & Descriptions
 Argument	Description	Example
