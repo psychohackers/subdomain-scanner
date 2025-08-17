@@ -14,11 +14,11 @@ Feature	Description
 💻 Command Usage
   
   
- python subdomain.py -d example.com -w subdomains.txt
+ python3 subdomain.py -d example.com -w subdomains.txt
 
 Or with custom threads:
 
-python subdomain.py -d example.com -w subdomains.txt -t 50
+python3 subdomain.py -d example.com -w subdomains.txt -t 50
 
 📄 Command-Line Arguments & Descriptions
 Argument	Description	Example
