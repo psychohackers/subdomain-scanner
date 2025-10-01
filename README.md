@@ -18,7 +18,7 @@ Feature	Description
 
 Or with custom threads:
 
-python3 subdomain.py -d example.com -w subdomains.txt -t 50
+```python3 subdomain.py -d example.com -w subdomains.txt -t 50```
 
 📄 Command-Line Arguments & Descriptions
 Argument	Description	Example
@@ -58,7 +58,7 @@ Python 3.x
 colorama (optional for colored output)
 
 Install required module:
-pip install colorama
+```pip install colorama```
 
 📦 requirements.txt
 
